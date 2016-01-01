@@ -18,7 +18,6 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-        self.title = "TkTips"
         tipLabel.text = "$0.00"
         totalLabel.text = "$0.00"
     }
@@ -27,7 +26,7 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
-
+    
     @IBAction func onEditingChanged(sender: AnyObject) {
         
         var tipPercentages = [0.15, 0.20, 0.25]
@@ -44,7 +43,6 @@ class ViewController: UIViewController {
         totalLabel.text = "$\(total)"
         
     }
-    
     @IBAction func onTap(sender: AnyObject) {
         view.endEditing(true)
     }

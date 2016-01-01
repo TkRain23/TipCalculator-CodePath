@@ -488,6 +488,7 @@
 				8C9E0DCF1C3630ED001E74C4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8C9E0DD01C3630ED001E74C4 /* Build configuration list for PBXNativeTarget "TkTipsTests" */ = {
 			isa = XCConfigurationList;
@@ -496,6 +497,7 @@
 				8C9E0DD21C3630ED001E74C4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8C9E0DD31C3630ED001E74C4 /* Build configuration list for PBXNativeTarget "TkTipsUITests" */ = {
 			isa = XCConfigurationList;
@@ -504,6 +506,7 @@
 				8C9E0DD51C3630ED001E74C4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
