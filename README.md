@@ -34,6 +34,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Time constraints were faced due to circumstances of being out of the country. Will intend to make updates within the next two weeks. 
 
+Quick Error: I did notice if I were to leave the bill amount field blank that it would crash. 
+
 ## License
 
     Copyright [2015] [Timothy Kaing]
